@@ -2,6 +2,15 @@
 
 A FastAPI web project for Testing my skill on "Abuja On Chain Builders"
 
+# Details 
+Create a User account.
+Authentic user with username and password
+Then create a inventory account
+Get Inventory with id 
+List all inventory
+Update inventory with id
+delete inventory with id
+
 ##  Project Structure
 
 .
